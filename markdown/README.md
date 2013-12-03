@@ -7,7 +7,7 @@ Formatting rules for converting a license into the markdown format:
 General Formatting
 ------------------
 
-*   Hard wrap all lines at 80 characters.  It's a good line line length.
+*   Hard wrap all lines at 80 characters.  It's a good line length.
 
 *   Files should be named using the license's acronym followed by `-LICENSE.md`.
 
