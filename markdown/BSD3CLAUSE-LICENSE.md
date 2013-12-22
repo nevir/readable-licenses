@@ -1,7 +1,7 @@
 The BSD 3-Clause ("BSD New" or "BSD Simplified") License
 ========================================================
 
-Copyright (c) `<year>`, `<copyright holder>`
+Copyright (c) `<year>`, `<copyright holders>`
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
