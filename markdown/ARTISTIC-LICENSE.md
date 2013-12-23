@@ -1,5 +1,5 @@
-
 Artistic License 2.0
+====================
 
 > Copyright (c) 2000-2006, The Perl Foundation.
 
@@ -108,13 +108,8 @@ licensee to freely copy, modify and redistribute the Modified Version using the
 same licensing terms that apply to the copy that the licensee received, and
 requires that the Source form of the Modified Version, and of any works derived
 from it, be made freely available in that license fees are prohibited but
-Distributor Fees are allowed. 
-
-
-Distribution of Compiled Forms of the Standard Version or Modified Versions
---------------------------------------------------------------------------- 
-without the Source
--------------------
+Distributor Fees are allowed. Distribution of Compiled Forms of the Standard
+Version or Modified Versions without the Source
 
 (5) You may Distribute Compiled forms of the Standard Version without the
 (Source, provided that you include complete instructions on how to get the
