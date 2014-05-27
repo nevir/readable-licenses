@@ -385,7 +385,8 @@ License.
 
 **13.** The Free Software Foundation may publish revised and/or new versions of
 the Lesser General Public License from time to time. Such new versions will be
-similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+similar in spirit to the present version, but may differ in detail to address
+new problems or concerns.
 
 Each version is given a distinguishing version number. If the Library specifies
 a version number of this License which applies to it and "any later version",
