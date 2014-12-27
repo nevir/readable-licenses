@@ -161,7 +161,7 @@ meet all of these conditions:
 *   **b)** You must cause the files modified to carry prominent notices stating
     that you changed the files and the date of any change.
 
-*   ***c)** You must cause the whole of the work to be licensed at no charge to
+*   **c)** You must cause the whole of the work to be licensed at no charge to
     all third parties under the terms of this License.
 
 *   **d)** If a facility in the modified Library refers to a function or a
